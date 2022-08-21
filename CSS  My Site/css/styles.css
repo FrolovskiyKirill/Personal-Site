@@ -24,7 +24,11 @@ h3{
   padding-top: 100px;
 }
 
-.giphy-embed {
+.polina-img {
+  margin-top: 20px;
+}
+
+.cat-gif {
   border-radius: 50%;
   height: 250px;
   width: 250px;
